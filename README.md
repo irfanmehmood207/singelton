@@ -1,0 +1,2 @@
+# singelton
+Php Singelton Class
